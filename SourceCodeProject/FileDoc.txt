@@ -1,0 +1,14 @@
+20170005;Nguyễn Tùng Dương;04/05/2002;k62;Viện Cơ khí;CK.CĐT.04-K62
+20170006;Nguyễn Thị Trà Giang;04/05/2002;k62;Viện Cơ khí;CTTN-Cơ điện tử-K62
+20170007;Nguyễn Lê Hiếu;04/05/2002;k62;Viện Cơ khí;CK.CĐT.06-K62
+20170008;Giang Mạnh Hùng;04/05/2002;k62;Viện Cơ khí;CTTN-Cơ điện tử-K62
+20170013;Phan Anh Tuấn;04/05/2002;k62;Viện Cơ khí;CK.CĐT.01-K62
+20170021;Nguyễn Hoàng;04/05/2002;k62;Viện Khoa học và Công nghệ Nhiệt Lạnh;KTN.01-K62
+20170023;Vũ NgọC TùNg;04/05/2002;k62;Viện Khoa học và Công nghệ Nhiệt Lạnh;KTN.02-K62
+20170027;Nguyễn Ngọc Đức;04/05/2002;K62;Viện Điện tử - Viễn thông;ĐTVT.01-K62
+20170028;Lê Việt Hùng;04/05/2002;k62;Viện Điện tử - Viễn thông;ĐTVT.02-K62
+20170029;Phạm Ngọc Khánh;04/05/2002;k62;Viện Điện tử - Viễn thông;CTTN-Điện tử truyền thông-K62
+20170031;Nguyễn Đình Minh;04/05/2002;k62;Viện Điện;CTTN-Điều khiển tự động-K62
+20170032;Chu Minh Phượng;04/05/2002;k62;Viện Điện tử - Viễn thông;ĐTVT.05-K62
+20170034;Bùi Tuấn Anh;04/05/2002;k62;Viện Công nghệ Thông tin và Truyền thông;Công nghệ thông tin 09-K62
+20170035;Mai Đặng Quân Anh;04/05/2002;k62;Viện Công nghệ Thông tin và Truyền thông;CTTN-Công nghệ thông tin-K62

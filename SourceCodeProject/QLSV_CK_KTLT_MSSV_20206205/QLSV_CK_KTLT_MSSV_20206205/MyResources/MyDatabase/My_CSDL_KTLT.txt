@@ -1,0 +1,1289 @@
+20206200;Vũ Ngọc Lâm;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 02-K65
+20206201;Lê Thị Linh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 03-K65
+20206202;Nguyễn Bùi Khánh Linh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 01-K65
+20206203;Nguyễn Phương Linh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 02-K65
+20206204;Lương Bảo Minh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 03-K65
+20206205;Vũ Văn Nghĩa;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 02-K65
+20206206;Nguyễn Văn Nghiêm;04/05/2002;k65;Viện Toán ứng dụng và Tin học;CTTN-Toán-Tin-K65
+20206207;Lưu Hải Phong;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 01-K65
+20206208;Nguyễn Hải Phong;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 02-K65
+20206209;Trần Minh Quang;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 03-K65
+20206210;Nguyễn Văn Quốc;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 01-K65
+20206211;Nguyễn Bá Thành;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 02-K65
+20206212;Phạm Thị Phương Thảo;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 03-K65
+20206213;Phạm Văn Thức;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 02-K65
+20206214;Hoàng Văn Toàn;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 02-K65
+20206215;Doãn Đức Trọng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 01-K65
+20206216;Lương Huy Tú;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 03-K65
+20206217;Nguyễn Khắc Anh Tuấn;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 01-K65
+20206218;Nguyễn Đức Tùng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 01-K65
+20206219;Nguyễn Thanh Tùng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 01-K65
+20206220;Lê Thế Vinh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;CTTN-Toán-Tin-K65
+20206221;Ngô Ngọc Vương;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Toán-Tin 01-K65
+20206222;Đỗ Hải Anh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206223;Lê Thị Tú Anh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206224;Phạm Thị Ngọc Anh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206225;Trần Thị Vân Anh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206226;Văn Ngọc Anh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206227;Vương Thị Phương Anh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206228;Đào Thị Ngọc Ánh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206229;Trịnh Văn Cường;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206230;Bùi Văn Đạt;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206231;Hoàng Tiến Đạt;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206232;Phạm Đăng Đạt;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206233;Giàng A Đức;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206234;Phan Trọng Đức;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206235;Ngô Tiến Duy;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206236;Nguyễn Minh Hà;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206237;Phạm Ngọc Hiếu;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206238;Trịnh Trung Hiếu;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206239;Nguyễn Thị Huê;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206240;Trần Thùy Hương;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206241;Lại Gia Huy;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206242;Nguyễn Thị Khánh Huyền;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206243;Nguyễn Đình Khánh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206244;Dương Văn Khoa;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206245;Quách Tuấn Kiệt;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206246;Trần Thị Lam;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206247;Ngô Ngọc Lan Linh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206248;Dương Thành Long;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206249;Giang Thành Long;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206250;Triệu Quang Mạnh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206251;Vũ Đức Minh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206252;Nguyễn Thành Nam;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206253;Phạm Phương Nga;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206254;Dương Thảo Ngọc;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206255;Nguyễn Hồng Nhung;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206256;Trần Đình Phúc;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206257;Nguyễn Thị Lâm Phương;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206258;Nguyễn Thanh Phượng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206259;Nguyễn Thúy Quỳnh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206260;Phạm Như Quỳnh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206261;Đoàn Đức Thanh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206262;Trần Thị Minh Thanh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206263;Nguyễn Sinh Thành;04/05/2002;k65;Viện Công nghệ Thông tin và Truyền thông;Kỹ thuật máy tính 04-K65
+20206264;Trần Hữu Tiên;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206265;Lê Thị Trang;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206266;Nguyễn Thành Trung;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206267;Nguyễn Cẩm Tú;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206268;Lê Thị Ánh Tuyết;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206269;Chu Thị Hải Yến;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206270;Nguyễn Việt Anh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206271;Nguyễn Ngọc Ánh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206272;Trần Xuân Bách;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206273;Phạm Chí Công;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206274;Đào Tiến Đạt;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206275;Vũ Thành Đạt;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206276;Nguyễn Trần Độ;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206277;Nguyễn Quang Dũng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206278;Trương Việt Dũng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206279;Đỗ Thị Ánh Dương;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206280;Bùi Hồng Giang;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206281;Lê Trọng Hoàng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206282;Trần Huy Hoàng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206283;Đỗ Văn Hùng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206284;Nguyễn Tuấn Hùng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206285;Dương Thái Huy;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206286;Phạm Quang Huy;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206287;Dương Thị Ngọc Huyền;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206288;Thân Thị Mỹ Huyền;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206289;Trần Quốc Khánh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206290;Trần Tuấn Kiệt;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206291;Nguyễn Đắc Long;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206292;Ngô Tấn Minh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206293;Nguyễn Hoàng Minh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206294;Nguyễn Nhật Minh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206295;Phạm Nhật Minh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206296;Nguyễn Minh Phi;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206297;Phạm Xuân Phong;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206298;Nguyễn Xuân Phú;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206299;Nguyễn Đức Quân;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206300;Nguyễn Hương Quỳnh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206301;Nguyễn Thị Quỳnh;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206302;Phạm Ngọc Thái;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206303;Phạm Văn Thái;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206304;Đặng Văn Thắng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206305;Đỗ Thu Thảo;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206306;Trịnh Vũ Thiên;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206307;Hoàng Anh Thư;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206308;Nguyễn Thị Hoài Thương;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206309;Vũ Thị Thương;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206310;Vũ Nguyên Tông;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206311;Nguyễn Đức Triệu;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 02-K65
+20206312;Đỗ Trung Tuyến;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206313;Nguyễn Tất Vượng;04/05/2002;k65;Viện Toán ứng dụng và Tin học;Hệ thống thông tin 01-K65
+20206314;Vũ Trường An;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206315;Vũ Văn An;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206316;Lê Doãn Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206317;Lê Thế Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206318;Mai Đức Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206319;Nguyễn Hoàng Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206320;Nguyễn Huy Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206321;Nguyễn Ngọc Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206322;Nguyễn Quốc Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206323;Nguyễn Thị Vân Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206324;Phạm Đức Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206325;Trần Nam Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206326;Trần Ngọc Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206327;Trịnh Việt Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206328;Nguyễn Ngọc Ánh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206329;Nguyễn Xuân Ánh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206330;Lê Trung Bắc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206331;Nghiêm Ngọc Bình;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206332;Nguyễn Sĩ Bình;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206333;Nguyễn Thanh Bình;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206334;Trịnh Quang Chất;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206335;Vũ Đình Chí;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206336;Nguyễn Huy Chính;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206337;Vũ Thị Chuyên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206338;Đào Mạnh Cường;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206339;Lê Văn Cường;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206340;Nguyễn Trọng Đạo;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206341;Nguyễn Huy Đạt;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206342;Phan Đức Đạt;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206343;Trần Tuấn Đạt;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206344;Trần Văn Đạt;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206345;Bùi Ngọc Định;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206346;Đặng Minh Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206347;Đào Minh Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206348;Lê Hoàng Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206349;Đỗ Tiến Dũng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206350;Hoàng Anh Dũng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206351;Ngô Quang Được;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206352;Nguyễn Văn Dương;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206353;Phạm Thành Dương;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206354;Đỗ Viết Duy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206355;Nguyễn Gia Duy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206356;Trần Văn Duy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206357;Đỗ Thị Mai Duyên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206358;Đào Trường Giang;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206359;Trần Thanh Hải;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206360;Đỗ Duy Hậu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206361;Phạm Duy Hiển;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206362;Nguyễn Quang Hiệp;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206363;Dương Minh Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206364;Lê Trung Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206365;Nguyễn Minh Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206366;Phạm Ngọc Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206367;Trần Đắc Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206369;Vũ Minh Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206370;Vũ Huy Hiệu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206371;Vũ Thái Hòa;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206372;Nguyễn Thu Hoài;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206373;Nguyễn Văn Hoan;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206374;Nguyễn Xuân Hoàn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206375;Phạm Văn Hoàn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206376;Bùi Huy Hoàng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206377;Nguyễn Minh Hoàng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206378;Nguyễn Minh Hoàng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206379;Trần Nam Hoàng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206380;Nguyễn Văn Hợp;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206381;Hoàng Tuấn Hùng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206382;Vũ Tuấn Hùng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206383;Đỗ Quốc Hưng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206385;Nguyễn Đức Hưng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206386;Nguyễn Thế Hưng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206387;Nguyễn Việt Hưng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206388;Phí Quốc Hưng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206389;Đỗ Phạm Nhật Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206390;Lê Quang Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206391;Nguyễn Anh Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206392;Nguyễn Đức Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206393;Nguyễn Đức Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206394;Phạm Quang Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206395;Phùng Quốc Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206396;Vũ Quang Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206397;Đỗ Quang Khải;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206399;Trần Đình Khải;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206400;Đinh Công Quốc Khánh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206401;Trần Duy Khánh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206402;Đinh Quang Khoa;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206403;Nguyễn Trọng Khoa;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206404;Cao Trung Kiên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206405;Trương Đình Kiên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206406;Trần Cảnh Kỳ;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206407;Đào Xuân Lăng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206408;Phạm Thùy Linh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206409;Nguyễn Ngọc Thanh Long;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206410;Nguyễn Sỹ Long;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206412;Nguyễn Văn Long;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206413;Phí Hải Long;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206414;Lê Thành Luân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206415;Vũ Thành Luân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206416;Nguyễn Thảo Ly;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206417;Đinh Văn Mạnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206418;Hoàng Văn Mạnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206419;Nguyễn Bá Mạnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206420;Nguyễn Văn Mạnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206421;Phạm Văn Mạnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206422;Đặng Quang Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206423;Đoàn Ngọc Hoàng Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206425;Lê Xuân Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206426;Nguyễn Tuấn Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206427;Nguyễn Tuấn Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206428;Phạm Hoàng Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206430;Trần Nhật Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206431;Hoa Hải Nam;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206432;Nguyễn Hải Nam;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206433;Nguyễn Hoàng Nam;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206434;Nguyễn Phương Nam;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206436;Nguyễn Trọng Nghĩa;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206437;Vũ Trọng Nghĩa;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206438;Đào Nguyên Ngọc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206439;Nguyễn Văn Nguyên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206440;Vũ Hoàng Nguyên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206441;Nguyễn Đức Nhâm;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206442;Hoàng Kim Nhu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206443;Trịnh Tuấn Phong;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206444;Lưu Hồng Phúc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206445;Ngô Quang Phúc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206446;Nguyễn Huy Phúc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206447;Phạm Hữu Phúc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206448;Dương Minh Phương;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206449;Hoàng Thị Minh Phượng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206450;Dương Anh Quân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206451;Hoàng Hồng Quân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206452;Mai Hồng Quân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206453;Ngô Minh Quân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206454;Nguyễn Minh Quân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206455;Nguyễn Đình Quang;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206456;Nguyễn Văn Quảng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206457;Nguyễn Hữu Quốc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206458;Nguyễn Văn Quý;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206459;Nguyễn Ngọc Quyết;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206460;Vũ Xuân Quỳnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206461;Mạc Duy Sáng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206462;Đinh Thanh Sơn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206463;Đỗ Công Sơn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206465;Mã Văn Sơn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206467;Nguyễn Trường Sơn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206468;Trần Thái Sơn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206469;Phạm Thế Tài;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206470;Nguyễn Ngọc Tân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206471;Đỗ Phan Thái;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206472;Phạm Đức Thái;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206473;Đinh Văn Thắng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206474;Hà Văn Thắng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206475;Nguyễn Đức Thắng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206476;Nguyễn Đức Thắng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206478;Nông Mạnh Thắng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206479;Phạm Văn Thắng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206480;Nguyễn Tất Thành;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206481;Nguyễn Đức Thiện;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206482;Nguyễn Đức Thịnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206483;Nguyễn Đức Thịnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206484;Phạm Ngọc Thịnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206485;Vũ Quốc Thoại;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206486;Nguyễn Trung Tiến;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206487;Tô Văn Tiêu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206488;Võ Văn Tĩnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206489;Lê Thị Thu Trang;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206490;Trần Bình Trọng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206491;Phạm Thanh Trúc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206492;Nguyễn Anh Tú;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206493;Phạm Ngọc Tú;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206494;Nguyễn Thành Tuân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206495;Lê Minh Tuấn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206496;Ngô Văn Tuấn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206497;Nguyễn Anh Tuấn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206498;Nguyễn Hoàng Anh Tuấn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206499;Nguyễn Minh Tuấn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206500;Tạ Quang Tuấn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206501;Trịnh Hoàng Tuấn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206502;Nguyễn Đình Tùng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206503;Vũ Văn Tùng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206504;Trần Văn Tuyên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206505;Bùi Phương Uyên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206506;Trần Thị Uyên;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206507;Phạm Ngọc Viễn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206508;Lã Quốc Việt;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206509;Nguyễn Sỹ Vinh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206510;Đinh Đức Quốc Vương;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206511;Nguyễn Hữu An;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206512;Cung Nhật Tùng Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206513;Đặng Nhật Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206514;Ngô Việt Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206515;Nguyễn Trần Việt Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206516;Nguyễn Duy Chiến;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206517;Đỗ Thành Đạt;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206518;Nguyễn Huy Đĩnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 02-K65
+20206519;Nguyễn Việt Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206521;Bùi Hữu Hậu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206522;Bùi Minh Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206523;Nguyễn Văn Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206524;Nguyễn Hữu Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206525;Dương Hải Long;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206526;Nguyễn Duy Long;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206527;Phạm Xuân Mai;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 04-K65
+20206528;Trần Quang Mạnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 05-K65
+20206529;Nguyễn Văn Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206530;Trần Văn Thắng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206531;Nguyễn Phương Thảo;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206532;Phạm Anh Trung;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 01-K65
+20206533;Nguyễn Văn Tú;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;Vật liệu 03-K65
+20206534;Nguyễn Quốc Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206535;Nguyễn Trọng Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206536;Trần Nam Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206537;Trần Ngọc Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206538;Vũ Hoàng Anh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206539;Lương Ngọc Ánh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206541;Nguyễn Văn Chiêu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206542;Đinh Văn Đạt;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206543;Khuất Văn Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206544;Lâm Anh Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206545;Nguyễn Minh Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206546;Trần Minh Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206547;Vũ Lê Anh Đức;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206548;Lương Hồng Dương;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206549;Bùi Thế Duy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206550;Nguyễn Trường Giang;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206551;Nguyễn Thị Thanh Hải;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206552;Phạm Vũ Đông Hải;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206553;Uông Thu Hiền;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206554;Dương Trung Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206555;Nguyễn Trung Hiếu;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206556;Nguyễn Việt Hoàng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206557;Nguyễn Khánh Hưng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206558;Nguyễn Quang Huy;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206559;Lê Quốc Khánh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206560;Nguyễn Lâm Khoa;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206561;Lê Đặng Tuấn Kiệt;04/05/2002;k65;Viện Kinh tế và Quản lý;CTTT Logistics 01-K65
+20206562;Trần Hoàng Sơn Lâm;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206563;Lê Khánh Linh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206564;Nguyễn Văn Lộc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206565;Đinh Ngọc Mai;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206566;Hoàng Đức Mạnh;04/05/2002;k65;Viện Điện;PFIEV Tin học công nghiệp và TĐH 01-K65
+20206567;Nguyễn Ngọc Minh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206569;Nguyễn Trà My;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206570;Hoàng Hoài Nam;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206571;Bùi Trọng Nghĩa;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206572;Vũ Trung Nghĩa;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206573;Phạm Văn Ngọc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206574;Lê Khôi Nguyên;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206575;Lê Trần Ngọc Phú;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206576;Trịnh Minh Phú;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206577;Lê Trần Minh Phương;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206578;Nguyễn Thăng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206579;Lê Văn Thắng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206580;Nguyễn Văn Thiện;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206581;Phạm Đức Thịnh;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206582;Trần Huyền Trân;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206583;Võ Công Tráng;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206584;Nguyễn Anh Tuấn;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206586;Đỗ Hoàng Yến;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206587;Đinh Thị Hoài Ngọc;04/05/2002;k65;Viện Khoa học và Kỹ thuật vật liệu;CTTT Vật liệu 01-K65
+20206588;Nguyễn Văn An;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206589;Đặng Đức Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206591;Lê Đức Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206593;Nguyễn Thị Lan Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206594;Trần Hoàng Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206595;Trần Ngọc Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206596;Vũ Nhật Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206597;Vương Thị Lan Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206598;Bùi Minh Ánh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206599;Trần Thị Ngọc Ánh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206600;Nguyễn Viết Bá;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206601;Trần Xuân Bách;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206602;Nguyễn Quốc Bảo;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206603;Hoàng Thị Huyền Bích;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206604;Mai Chí Cần;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206605;Đặng Minh Chiến;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206606;Nguyễn Đức Chính;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206607;Nguyễn Quốc Công;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206608;Lương Hồng Đăng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206609;Dương Thành Đạt;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206610;Nguyễn Thành Đạt;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206611;Nguyễn Doãn Điền;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206612;Hoàng Xuân Đức;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206613;Lưu Minh Đức;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206614;Ngô Minh Đức;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206615;Ngô Xuân Đức;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206616;Nguyễn Tiến Đức;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206617;Trần Văn Đức;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206618;Dương Nguyên Dũng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206619;Hoàng Trọng Dũng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206620;Nguyễn Khắc Dũng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206621;Nguyễn Việt Dũng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206622;Nguyễn Đăng Duy;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206623;Nguyễn Mạnh Duy;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206624;Trần Khánh Duy;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206625;Trần Hà Giang;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206626;Đào Thu Hà;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206627;Ngô Quang Hà;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206628;Nguyễn Thị Thu Hà;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206629;Nguyễn Duy Hải;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206630;Nguyễn Hoàng Hải;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206631;Nguyễn Tùng Hải;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206632;Nguyễn Thị Mỹ Hạnh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206633;Trần Văn Hiến;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206634;Phạm Thị Thu Hiền;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206635;Lê Ngọc Hiệp;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206636;Trần Văn Hiệp;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206637;Vũ Hoàng Hiệp;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206638;Nguyễn Đắc Hiếu;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206639;Nguyễn Trọng Hiếu;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206640;Nguyễn Trung Hiếu;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206641;Lê Minh Hoàng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206642;Nguyễn Đăng Hoàng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206643;Nguyễn Huy Hoàng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206644;Nguyễn Việt Hoàng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206645;Ninh Văn Hợp;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206646;Hoàng Phi Hùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206647;Nguyễn Phi Hùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206648;Trần Văn Hùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206649;Vũ Phi Hùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206650;Tạ Văn Hưởng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206651;Lê Quang Huy;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206652;Nguyễn Minh Huyền;04/05/2002;k65;Viện Công nghệ Thông tin và Truyền thông;ICT 02-K65
+20206653;Phạm Thị Huyền;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206654;Nguyễn Văn Hỷ;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206655;Nguyễn Lâm Khánh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206656;Vũ Đăng Khoa;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206657;Nguyễn Duy Khôi;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206658;Phạm Minh Khôi;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206659;Nguyễn Trường Kỳ;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206660;Nguyễn Thị Lệ;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206661;Hoàng Thị Linh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206662;Trần Thị Thùy Linh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206663;Nguyễn Thị Phương Loan;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206664;Nguyễn Đức Long;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206665;Phạm Vũ Thành Long;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206666;Nguyễn Thị Luyến;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206667;Nguyễn Văn Mã;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206668;Nguyễn Huy Mạnh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206669;Vũ Công Mạnh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206670;Nguyễn Đức Minh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206671;Nguyễn Ngọc Minh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206672;Phan Hà Minh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206673;Vũ Duy Minh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206674;Cao Ngọc Na;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206675;Lưu Thái Nam;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206676;Tống Đình Nam;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206677;Nguyễn Thị Nguyệt;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206678;Đinh Lê Thảo Nhi;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206679;Chu Văn Phiên;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206680;Lê Quang Phong;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206681;Trần Đăng Phương;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206682;Trần Minh Phương;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206683;Đặng Anh Quân;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206685;Nguyễn Đức Anh Quân;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206686;Nguyễn Văn Quân;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206687;Nguyễn Trọng Quang;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206688;Nguyễn Duy Quý;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206689;Trương Văn Quyền;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206690;Lê Thanh Quyết;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206691;Trần Viết Sang;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206692;Nguyễn Sư Sao;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206693;Nguyễn Ngọc Hoàng Sơn;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206694;Nguyễn Thượng Tài;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206695;Mai Chí Tân;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206696;Lâm Hữu Thái;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206697;Đoàn Doãn Thắng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206698;Phạm Thành Thắng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206699;Trần Quang Thắng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206700;Vũ Thị Thanh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206701;Ngô Tuấn Thành;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206702;Nguyễn Tuấn Thành;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206703;Đỗ Huy Thi;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206704;Nguyễn Ngọc Thịnh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206705;Nguyễn Phạm Đức Thịnh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206706;Đinh Thị Tho;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206707;Ngô Thị Thơm;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206708;Trần Thị Thu;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206709;Trần Thị Hoài Thương;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206710;Nguyễn Thị Thùy;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206711;Đàm Hữu Tiến;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206712;Trần Ngọc Tiến;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206713;Nguyễn Duy Tỉnh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206714;Nguyễn Đình Toản;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206715;Chu Tiến Tới;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206716;Nguyễn Thanh Trà;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206717;Tạ Hương Trà;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206718;Vũ Thành Trung;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206719;Nguyễn Ngọc Tú;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206720;Phạm Quang Tú;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206721;Trần Ngọc Tú;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206722;Hoàng Minh Tuấn;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206723;Kiều Quang Tuấn;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206724;Lê Minh Tuấn;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206725;Nguyễn Anh Tuấn;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206727;Cao Văn Tùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206728;Đỗ Xuân Tùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206729;Nguyễn Thanh Tùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206730;Phạm Việt Tùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206732;Vũ Thanh Tùng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206733;Trần Thị Thu Uyên;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206734;Nguyễn Thị Hồng Vân;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206735;Bùi Xuân Việt;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206736;Nguyễn Đức Vinh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206737;Nguyễn Quang Vinh;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206738;Hoàng Trung Đức;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206739;Phạm Duy Kiên;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206740;Phạm Bá Tùng Lâm;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206741;Nguyễn Phương Lan;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206742;Đoàn Tiến Lộc;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206743;Nguyễn Hoàng Lưu;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206744;Nguyễn Cao Nam;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 02-K65
+20206745;Bùi Xuân Phong;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206746;Tống Minh Thắng;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 03-K65
+20206747;Đặng Văn Toàn;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206748;Bùi Xuân Trường;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206749;Lã Văn Tuấn;04/05/2002;k65;Viện Vật lý kỹ thuật;Vật lý 01-K65
+20206750;Đinh Tiến Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206751;Hoàng Công Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206752;Lê Tuấn Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206753;Nguyễn Phan Anh;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206754;Nguyễn Việt Bách;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206755;Chu Việt Cường;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206756;Nguyễn Văn Dũng;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206758;Dương Thị Hằng;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206759;Cao Tuấn Hiệp;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206760;Chu Trần Bá Hiếu;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206761;Lý Quang Huy;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206762;Nguyễn Đức Huy;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206763;Tô Ngọc Huy;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206764;Trần Quang Huy;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206765;Vũ Quốc KháNh;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206766;Phạm Đăng Khoa;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206768;Nguyễn Tuấn Minh;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206769;Đỗ Thành Nam;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206770;Nguyễn Công Nghĩa;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206771;Nguyễn Đức Phương;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206772;Nguyễn Hà Phương;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206773;Trần Nhật Quang;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206774;Nguyễn Thẩm Quyến;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206775;Nguyễn Xuân Thành;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206776;Phạm Ngọc Tiên;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206777;Đoàn Minh Tiến;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206778;Đặng Quang Tú;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206779;Hoàng Quốc Việt;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206781;Trần Trọng Vinh;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206782;Phùng Minh Vũ;04/05/2002;k65;Viện Vật lý kỹ thuật;Hạt nhân 01-K65
+20206783;Đặng Văn An;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206784;Nguyễn Thành An;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206785;Bùi Việt Anh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206786;Hoàng Quỳnh Anh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206787;Ngô Nhật Anh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206788;Nguyễn Sỹ Tuấn Anh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206789;Nguyễn Tiến Anh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206790;Nguyễn Duy Bắc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206791;Ngô Văn Bách;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206792;Nguyễn Thắng Bách;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206794;Cao Cầu;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206795;Nguyễn Minh Châu;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206796;Trần Văn Chiến;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206797;Đỗ Tấn Chiêu;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206798;Nguyễn Bá Chinh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206799;Đỗ Trọng Cường;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206800;Nguyễn Quốc Cường;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206801;Nguyễn Văn Cường;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206802;Đỗ Hoàng Đan;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206803;Cao Đắc Hải Đăng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206804;Lê Quang Đạo;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206805;Ngô Thành Đạt;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206806;Nguyễn Bá Đạt;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206807;Nguyễn Quốc Đạt;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206808;Nguyễn Thành Đạt;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206809;Nguyễn Tiến Đạt;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206810;Phan Hoàng Dinh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206812;Trần Công Đoàn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206813;Nguyễn Duy Đông;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206814;Vũ Ngọc Dư;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206815;Đặng Minh Đức;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206816;Lê Đình Đức;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206817;Lê Xuân Đức;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206819;Phạm Quang Đức;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206820;Phạm Trần Huy Đức;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206821;Phạm Trung Đức;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206822;Lương Minh Dũng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206823;Phạm Tiến Dũng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206824;Trần Trọng Dũng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206825;Kiềng Trần Dương;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206826;Lê Xuân Dương;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206827;Nguyễn Chí Dương;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206828;Nguyễn Đình Dương;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206829;Trần Công Dương;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206830;Vương Hoàng Duy;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206831;Đỗ Quốc Gia;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206832;Lưu Trường Giang;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206833;Phạm Văn Giang;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206834;Nguyễn Mạnh Hà;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206835;Nguyễn Tuấn Hải;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206836;Trần Quang Hân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206837;Lê Đức Hạnh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206838;Nguyễn Hoàng Hiệp;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206839;Nguyễn Năng Hiệp;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206840;Nguyễn Văn Hiệp;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206841;Tiếp Trần Hoàng Hiệp;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206842;Đinh Trọng Hiếu;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206843;Nguyễn Thái Hòa;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206844;Đỗ Huy Hoàng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206845;Đỗ Sỹ Hoàng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206846;Lê Đình Hoàng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206847;Lê Huy Hoàng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206848;Nguyễn Văn Hoàng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206849;Nguyễn Văn Hoàng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206850;Hoàng Phi Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206851;Nguyễn Mạnh Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206852;Phạm Việt Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206853;Trần Phi Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206854;Trần Văn Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206855;Đặng Thế Hưng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206856;Hoàng Minh Hưng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206857;Phạm Khánh Hưng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206858;Phạm Phúc Hưng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206859;Lê Quang Huy;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206860;Nguyễn Công Huy;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206861;Nguyễn Hùng Huy;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206862;Phạm Quang Huy;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206863;Trần Quang Khải;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206864;Đậu Quốc Khánh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206865;Đinh Quang Khánh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206866;Nguyễn Quốc Khánh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206867;Phùng Quốc Khánh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206868;Phạm Đức Khiêm;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206869;Lê Đăng Khoa;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206870;Nguyễn Đăng Kiểm;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206871;Đinh Trung Kiên;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206872;Dương Ngô Kiên;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206873;Phùng Trung Kiên;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206874;Vũ Duy Kiên;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206876;Nguyễn Hoàng Lịch;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206877;Nguyễn Duy Linh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206878;Nguyễn Ngọc Linh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206879;Phạm Văn Linh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206880;Nguyễn Thành Lộc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206881;Đinh Văn Long;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206882;Nguyễn Ngọc Long;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206883;Nguyễn Văn Lưu;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206884;Lê Xuân Mạnh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206885;Nguyễn Thế Mạnh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206886;Ba Thế Minh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206887;Đoàn Tiến Minh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206888;Lê Đình Minh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206889;Lưu Quang Minh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206890;Nguyễn Văn Minh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206891;Phạm Ngọc Minh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206892;Phạm Văn Minh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206893;Dương Đức Nam;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206894;Lê Công Nam;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206895;Lê Đức Nam;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206897;Ngô Minh Nghĩa;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206898;Nguyễn Tuấn Ngọc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206899;Mai Ngọc Tư Nguyên;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206900;Lê Duy Nhất;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206901;Phạm Văn Ninh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206903;Vũ Đình Phúc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206905;Hoàng Minh Quân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206906;Nguyễn Hồng Quân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206907;Nguyễn Hữu Quân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206908;Nguyễn Tất Quân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206909;Phạm Bùi Anh Quân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206910;Phạm Hồng Quân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206911;Đỗ Hữu Quang;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206912;Lang Thanh Quang;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206913;Nguyễn Minh Quang;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206914;Nguyễn Thanh Quang;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206915;Lê Chí Quốc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206916;Nguyễn Trường Quốc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206917;Trần Minh Quý;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206918;Trần Duy Quyền;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206919;Hoàng Bá Quyết;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206920;Hoàng Công Quyết;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206921;Nguyễn Minh Quyết;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206922;Ngô Viết Sang;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206923;Nguyễn Nam Sơn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206924;Nguyễn Xuân Sơn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206925;Phạm Ngọc Sơn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206926;Đinh Văn Sỹ;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206927;Phan Mạnh Tân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206928;Trần Nhật Tân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206929;Bùi Chiến Thắng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206930;Lê Đức Thắng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206931;Lê Quốc Thắng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206932;Nguyễn Tuấn Thắng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206933;Lê Thành;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206934;Nguyễn Tuấn Thành;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206935;Phạm Văn Thành;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206936;Phạm Văn Thao;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206937;Nguyễn Bình Thảo;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206938;Phạm Hùng Thụ;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206939;Trần Trọng Thuân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206940;Nguyễn Văn Thuần;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206941;Thân Văn Thức;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206942;Nguyễn Văn Thủy;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206943;Dương Doãn Tiến;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206944;Trịnh Công Tiến;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206946;Lê Văn Toản;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206947;Hoàng Đức Trọng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206948;Nguyễn Phúc Trung;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206949;Lê Xuân Trượng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206950;Nguyễn Tiến Tú;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206951;Phan Anh Tú;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206952;Nguyễn Tống Nguyên Tử;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206953;Nguyễn Tiến Tuân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206954;Đào Công Tuấn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206955;Phạm Mạnh Tuấn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206956;Lưu Quang Tùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206957;Vũ Quang Tùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206958;Nguyễn Đình Văn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206959;Nguyễn Đức Văn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206960;Phạm Văn Viện;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206961;Nguyễn Quốc Việt;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206962;Nguyễn Quốc Việt;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206963;Bùi Duy Vũ;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206964;Vũ Minh Vương;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206965;Lô Văn Xiếc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206966;Lê Đức Anh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206967;Phạm Văn Tuấn Anh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206968;Phạm Sỹ Chiến;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206969;Lê Tiến Công;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206970;Trịnh Tiến Đạt;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206971;Vương Anh Đức;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206972;Phạm Hoàng Dũng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206973;Nguyễn Thành Duy;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206974;Nguyễn Như Hán;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206975;Nguyễn Mạnh Hiệp;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206976;Đặng Trọng Duy Hiếu;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206977;Đào Trung Hiếu;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206978;Vũ Đình Hoan;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206979;Đỗ Việt Hoàng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206980;Mai Việt Hoàng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206981;Hoàng Minh Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206982;Lê Văn Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206983;Trịnh Văn Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206984;Vũ Sinh Hùng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206985;Dương Quang Hưng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206986;Nguyễn Lê Hưng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206987;Cồ Huy Khởi;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206988;Nguyễn Duy Linh;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206989;Nguyễn Phúc Lộc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206990;Nguyễn Xuân Lộc;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206991;Đặng Đình Long;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206992;Nguyễn Hoàng Long;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 03-K65
+20206993;Trần Thái Hoàng Long;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206994;Trần Hải Nam;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20206995;Nguyễn Hoàng Phan;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 01-K65
+20206996;Trịnh Văn Quyết;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 05-K65
+20206997;Đinh Thái Sơn;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206998;Nguyễn Duy Tân;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20206999;Phạm Việt Thắng;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 04-K65
+20207000;Nguyễn Đăng Thành;04/05/2002;k65;Viện Cơ khí Động lực;KT ô tô 02-K65
+20202020;Nguyễn Thị Diệp Anh;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202021;Trần Phương Anh;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202022;Trần Thu Phương Anh;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202023;Nguyễn Thị Hồng Ánh;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202024;Trần Nguyệt Ánh;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202025;Vũ Xuân Bách;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202027;Đinh Minh Đức;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202028;Nguyễn Hương Giang;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202029;Trịnh Hồng Hải;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202030;Lại Thị Mỹ Hạnh;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202031;Nguyễn Thị Hảo;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202032;Đỗ Minh Hiếu;04/05/2002;k65;Viện Công nghệ Thông tin và Truyền thông;IT-VUW 02-K65
+20202033;Nguyễn Khánh Hòa;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202034;Nguyễn Thị Hoan;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202035;Phạm Huy Hoàng;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202036;Mai Thị Huệ;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202037;Nông Thị Thanh Hương;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202038;Hoàng Nhật Khánh;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202039;Lê Đăng Khoa;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202040;Vi Nhật Khôi;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202041;Trần Bích Loan;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202042;Trần Ngọc Long;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202044;Phạm Minh Ngọc;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202045;Đặng Nguyên Phú;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202046;Bùi Lê Bảo Phúc;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202047;Nguyễn Công Quyết;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202048;Nguyễn Phương Thảo;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202049;Nguyễn Thị Thu Thảo;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202050;Nguyễn Nhật Trường Thọ;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202051;Hoàng Thị Thơm;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202052;Nguyễn Hữu Khánh Toàn;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202053;Hà Huyền Trang;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202055;Nguyễn Thu Trang;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202057;Nguyễn Minh Trí;04/05/2002;k65;Viện Sư phạm Kỹ thuật;Công nghệ giáo dục 01-K65
+20202058;Đào Đức An;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202059;Ngô Xuân An;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202060;Nguyễn Hữu An;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202061;Đinh Công Hoàng Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202062;Đinh Tuấn Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202063;Hoàng Thị Phương Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202064;Lê Đức Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202065;Lê Việt Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202067;Nguyễn Bá Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202068;Nguyễn Hoàng Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202069;Nguyễn Quốc Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202070;Nguyễn Tuấn Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202071;Nguyễn Việt Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202072;Sầm Đỗ Đức Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202073;Nguyễn Văn Bá;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202075;Trần Văn Cao;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202076;Hoàng Đức Chiến;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202077;Nguyễn Đình Chiến;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202078;Hán Hoàng Chúc;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202079;Lê Thành Công;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202080;Bùi Công Cường;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202081;Nguyễn Doãn Cường;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202082;Nguyễn Mạnh Cường;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202083;Trần Ngọc Đặng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202084;Đặng Thành Đạt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202085;Đỗ Minh Đạt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202086;Ngô Quốc Đạt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202087;Nguyễn Quốc Đạt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202088;Phùng Ngọc Đạt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202090;Vi Văn Đạt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202091;Trần Văn Diện;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202093;Trần Văn Đông;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202094;Nguyễn Hồng Đức;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202095;Nguyễn Hồng Đức;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202096;Phạm Văn Đức;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202097;Trần Minh Đức;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202098;Trương Minh Đức;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202099;Lê Anh Dũng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202100;Nguyễn Đặng Dũng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202101;Triệu Việt Dũng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202102;Lê Đức Dương;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202103;Phan Đại Dương;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202104;Phan Tuấn Dương;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202105;Đàm Đức Duy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202106;Lưu Thị Lương Duyên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202107;Nguyễn Tiến Bằng Giang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202108;Nguyễn Đình Giáp;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202109;Lê Thị Thu Hà;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202110;Phạm Văn Hải;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202111;Nguyễn Tiến Hào;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202112;Tạ Quang Hào;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202113;Trần Hữu Hiển;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202114;Ngô Xuân Hiếu;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202115;Nguyễn Minh Hiếu;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202116;Nguyễn Viết Hiếu;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202117;Trịnh Minh Hiếu;04/05/2002;k65;Viện Điện;CTTT KT Điều khiển-TĐH và HTĐ 01-K65
+20202118;Nguyễn Huy Hiệu;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202119;Phạm Việt Hoà;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202120;Lại Thanh Hòa;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202121;Đinh Việt Hoàn;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202122;Dương Đình Hoàng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202123;Nguyễn Nhật Hoàng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202124;Phạm Phan Hoàng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202125;Vũ Viết Hoàng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202126;Đỗ Minh Hồng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202128;Phạm Thị Huệ;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202129;Trần Khánh Hưng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202130;Đào Quang Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202131;Nguyễn Quang Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202132;Nguyễn Văn Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202133;Nguyễn Văn Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202134;Trần Quốc Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202135;Vũ Quang Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202136;Vũ Quang Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202138;Ngô Văn Khánh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202139;Nguyễn Vinh Khánh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202140;Đỗ Đình Kiên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202141;Lê Trung Kiên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202142;Nguyễn Trung Kiên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202143;Phạm Gia Kiên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202144;Phạm Trung Kiên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202145;Thân Văn Kiên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202146;Hoàng Trung Kiệt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202147;Phùng Viết Lâm;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202148;Nguyễn Đức Liêm;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202149;Tăng Thị Thúy Liên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202150;Nguyễn Bảo Luân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202151;Vũ Thị Lý;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202152;Nguyễn Bá Mạnh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202153;Nguyễn Đức Mạnh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202154;Nguyễn Tiến Mạnh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202155;Phạm Đức Mạnh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202156;Phan Tiến Mạnh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202157;Nguyễn Khắc Bảo Minh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202158;Nguyễn Quang Minh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202159;Trần Đức Minh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202160;Trần Tuấn Minh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202161;Trần Xuân Minh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202162;Vũ Quang Minh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202163;Vũ Tiến Mỹ;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202164;Bùi Huy Nam;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202165;Đỗ Thế Nam;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202166;Hạ Phương Nam;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202167;Hoàng Hải Nam;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202168;Nguyễn Thành Nam;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202169;Nguyễn Thành Nam;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202170;Phạm Ngọc Nam;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202171;Lê Xuân Nghĩa;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202172;Nguyễn Đình Phú Nghĩa;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202173;Phạm Minh Nghĩa;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202174;Phạm Tuấn Nghĩa;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202175;Trần Trung Nghĩa;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202176;Nguyễn Tấn Phát;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202177;Đặng Ngọc Phong;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202178;Đoàn Khắc Phong;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202179;Ngô Gia Phong;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202180;Ngô Tiên Phong;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202181;Nguyễn Bá Phong;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202182;Nguyễn Văn Phú;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202183;Vũ Quý Phú;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202184;Nguyễn Trường Phúc;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202185;Lê Hữu Phước;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202186;Nguyễn Văn Phương;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202187;Bùi Minh Quân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202188;Hồ Minh Quân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202189;Nguyễn Minh Quân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202190;Nguyễn Minh Quân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202191;Phạm Minh Quân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202192;Đặng Minh Quang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202193;Nguyễn Văn Quang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202194;Nguyễn Văn Quang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202195;Vũ Văn Quang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202196;Tôn Cường Quốc;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202197;Lê Mạnh Quyết;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202198;Bùi Hữu Sắc;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202199;Võ Trọng Sáng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202200;Trịnh Đức Tài;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202201;Đỗ Chí Tâm;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202202;Bùi Duy Thái;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202203;Lê Quyết Thắng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202204;Bùi Duy Thành;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202205;Lê Tuấn Thành;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202206;Nguyễn Văn Thành;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202207;Lưu Phi Thao;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202208;Nguyễn Thị Thanh Thảo;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202210;Trương Khánh Thiện;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202211;Lê Đức Thịnh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202212;Phạm Văn Thuận;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202213;Phạm Văn Thuyên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202215;Phạm Văn Tiến;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202216;Lại Văn Tình;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202217;Đỗ Duy Toàn;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202218;Kim Đình Việt Toàn;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202219;Phạm Thị Trang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202220;Nguyễn Thành Trung;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202221;Trần Cao Trung;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202222;Vũ Quốc Trung;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202223;Lương Ngọc Trường;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202224;Nguyễn Hoàng Anh Tú;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202225;Vũ Anh Tú;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202226;Triệu Ngọc Tuân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202227;Đỗ Minh Tuấn;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202228;Nguyễn Anh Tuấn;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202229;Nguyễn Minh Tuấn;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202230;Phan Quốc Tuấn;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202231;Đào Ngọc Tùng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202232;Hoàng Ngọc Tùng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202233;Ngô Quý Tùng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202234;Nguyễn Cầu Thanh Tùng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202235;Phạm Vĩnh Tuyền;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202236;Đỗ Thảo Vi;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202237;Đỗ Quang Viên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202238;Lê Hoàng Việt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202239;Nguyễn Quốc Việt;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202240;Đặng Nguyên Vũ;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202241;Đào Long Vũ;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202242;Đỗ Anh Vũ;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202243;Lê Khắc Vương;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202244;Trần Minh Vương;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202245;Chu Tuấn Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202246;Đỗ Nguyễn Đức Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202247;Phan Thanh Tuấn Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202248;Vũ Tiến Hải Anh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202249;Lê Việt Bách;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202250;Trần Xuân Bách;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202251;Đỗ Đình Cường;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202252;Hồ Việt Cường;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202253;Trần Thiện Đăng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202254;Đỗ Minh Đức;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202255;Nguyễn Duy Đức;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202256;Nguyễn Quang Duy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202257;Trần Thuỷ Giang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202258;Vũ Thị Hương Giang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202259;Bùi Quang Hải;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202260;Nguyễn Trung Hải;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202261;Phạm Đức Hiếu;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202262;Hoàng Quốc Hưng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202263;Nguyễn Đức Hướng;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202264;Đinh Thành Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202265;Lưu Quang Huy;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202266;Đinh Tiến Khải;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202267;Đỗ Trung Kiên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202268;Lê Thị Minh Liên;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202269;Lê Văn Mạnh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202270;Nguyễn Đăng Minh;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202271;Nguyễn Hoàng Nghĩa;04/05/2002;k65;Viện Điện;Kỹ thuật điện 01-K65
+20202272;Trần Hồng Ngọc;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202273;Nguyễn Vĩnh Phúc;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202274;Hoàng Anh Quân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202275;Trần Ngọc Quang;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202276;Tạ Mạnh Quyền;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202277;Nguyễn Quốc Toàn;04/05/2002;k65;Viện Điện;Kỹ thuật điện 04-K65
+20202278;Nguyễn Thị Trúc;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202279;Hà Bảo Trung;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202280;Nguyễn Anh Tú;04/05/2002;k65;Viện Điện;Kỹ thuật điện 03-K65
+20202281;Dương Minh Tuyến;04/05/2002;k65;Viện Điện;Kỹ thuật điện 05-K65
+20202282;Nguyễn Hồng Vân;04/05/2002;k65;Viện Điện;Kỹ thuật điện 02-K65
+20202283;Nguyễn Quốc An;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202285;Bùi Đức Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202286;Bùi Quang Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202287;Đinh Tuấn Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202288;Hồ Xuân Việt Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202289;Kim Tuấn Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202290;Lê Vương Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202291;Nguyễn Cảnh Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202292;Nguyễn Hoàng Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202293;Nguyễn Hoàng Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202294;Nguyễn Nhật Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202295;Nguyễn Thế Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202296;Nguyễn Tuấn Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202297;Nguyễn Văn Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202298;Phạm Minh Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202300;Phạm Tuấn Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202301;Trần Tuấn Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202302;Trần Tuấn Anh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202303;Đặng Đức Bách;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202304;Trần Xuân Bách;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202305;Ngô Gia Bảo;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202306;Trương Công Biên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202307;Ngô Đức Bình;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202308;Đinh Lan Chi;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202309;Nguyễn Tuấn Chung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202310;Nguyễn Hữu Cường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202311;Nguyễn Mạnh Cường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202312;Nguyễn Mạnh Cường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202313;Vũ Đức Cường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202314;Vũ Hoàng Đại;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202315;Nguyễn Hải Đăng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202316;Nguyễn Công Danh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202317;Hoàng Ngọc Đạt;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202318;Nguyễn Thành Đạt;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202320;Nguyễn Văn Đạt;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202321;Nguyễn Văn Đạt;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202322;Nông Văn Đạt;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202323;Huỳnh Văn Điệp;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202324;Kim Thành Đoàn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202325;Ngô Duy Đông;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202326;Nguyễn Văn Đồng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202327;Nguyễn Hữu Du;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202328;Bùi Minh Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202329;Đặng Trung Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202330;Đỗ Minh Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202331;Hoàng Minh Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202332;Nguyễn Đình Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202333;Nguyễn Minh Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202334;Nguyễn Minh Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202335;Nguyễn Xuân Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202336;Tạ Duy Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202337;Trần Minh Đức;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202338;Bùi Anh Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202339;Đỗ Hùng Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202340;Đỗ Tiến Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202341;Đỗ Trí Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202342;Đồng Văn Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202343;Dương Anh Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202344;Lê Thế Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202345;Ngô Đức Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202346;Nguyễn Anh Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202347;Nguyễn Mạnh Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202348;Nguyễn Tiến Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202349;Nguyễn Văn Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202350;Phạm Tiến Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202351;Tạ Nguyễn Đức Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202352;Trần Đức Dũng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202353;Lê Văn Tín Dương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202354;Nguyễn Thái Dương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202355;Phạm Thái Dương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202356;Triệu Tiến Dương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202357;Nguyễn Đình Duy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202358;Trần Đình Duy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202359;Trần Văn Duy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202360;Nguyễn Thị Duyên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202361;Nguyễn Trường Giang;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202362;Lê Văn Giáp;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202363;Đinh Tiến Hải;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202364;Nguyễn Hồng Hải;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202365;Nguyễn Văn Hải;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202366;Phạm Đình Hải;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202367;Trần Long Hải;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202368;Trần Phúc Hân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202369;Nguyễn Nhân Hạng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202370;Mạc Văn Hanh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202371;Diêm Công Hiển;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202372;Bùi Ngọc Hiệp;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202373;Đặng Vũ Hiệp;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202374;Phan Văn Hiệp;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202375;Bùi Đức Hiếu;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202376;Cù Đức Hiếu;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202377;Hoàng Minh Hiếu;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202378;Lê Trung Hiếu;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202379;Lê Trung Hiếu;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202380;Nguyễn Đức Hiếu;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202381;Nguyễn Trọng Hiếu;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202382;Vũ Minh Hiếu;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202383;Nguyễn Thu Hòa;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202384;Võ Khánh Hòa;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202385;Phan Khánh Hoàn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202386;Trần Văn Hoàn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202387;Đào Mạnh Hoàng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202388;Đinh Công Hoàng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202389;Đinh Hữu Hoàng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202390;Hoa Việt Hoàng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202391;Phạm Minh Hoàng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202392;Phùng Phi Hoàng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202393;Vũ Hải Hoàng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202394;Vũ Ngọc Hoàng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202395;Ma Tiến Huân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202396;Nguyễn Thị Huệ;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202397;Mai Duy Hùng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202398;Phùng Đức Hùng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202399;Nguyễn Ngọc Hưng;04/05/2002;k65;Viện Điện;CTTN-KT điều khiển-TĐH-K65
+20202400;Hoàng Ngọc Huy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202401;Lương Hữu Huy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202402;Ngô Khắc Huy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202403;Nguyễn Đình Huy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202404;Nguyễn Quang Huy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202405;Phùng Quang Huy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202406;Trần Quang Huy;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202407;Nguyễn Văn Huyên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202408;Đoàn Văn Khả;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202409;Phạm Đức Khải;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202410;Tạ Doãn Khải;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202411;Bùi Quốc Khánh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202412;Hoàng Vinh Khánh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202413;Lưu Huy Khánh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202414;Ngô Quốc Khánh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202415;Nguyễn Đức Khánh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202416;Thái Xuân Khánh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202418;Trịnh Quốc Khánh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202419;Đinh Gia Khiêm;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202420;Hoàng Ngọc Khiêm;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202421;Lê Đức Khiêm;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202422;Đặng Minh Khiết;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202423;Lê Viết Khoa;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202424;Trần Đăng Khoa;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202425;Phạm Minh Khởi;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202426;Lương Văn Kiên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202427;Phạm Lê Kiên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202428;Tạ Xuân Kiên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202429;Cao Hưng Lâm;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202430;Võ Bảo Lâm;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202431;Phan Thái Hoàng Lân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202432;Nguyễn Đăng Lịch;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202433;Bùi Tuấn Linh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202434;Lưu Tạ Trường Linh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202435;Nguyễn Văn Lộc;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202436;Nguyễn Xuân Lộc;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202437;Nguyễn Đình Lợi;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202438;Hà Hải Long;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202439;Nguyễn Đức Long;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202440;Nguyễn Thành Long;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202441;Nguyễn Thành Long;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202442;Cù Đức Tài Lương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202443;Nguyễn Đức Lương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202444;Trần Khánh Lương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202445;Đỗ Văn Lượng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202446;Trần Văn Lượng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202447;Đàm Đình Mạnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202448;Đỗ Đức Mạnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202449;Ngô Đức Mạnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202450;Nguyễn Như Mạnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202451;Nguyễn Văn Mạnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202452;Phan Đức Mạnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202453;Vũ Hữu Mạnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202454;Vũ Tiến Mạnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202455;Đào Văn Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202456;Đỗ Nhật Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202457;Đỗ Quang Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202458;Hòa Quang Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202459;Lê Anh Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202460;Lê Công Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202461;Mai Ngọc Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202462;Nguyễn Anh Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202463;Nguyễn Tường Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202464;Phạm Đăng Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202465;Trần Công Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202466;Trần Phú Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202467;Vũ Đình Phúc Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202468;Vũ Đức Minh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202469;Lê Hải Nam;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202470;Nguyễn Hải Nam;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202471;Nguyễn Hữu Hoàng Nam;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202472;Nguyễn Văn Nam;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202473;Nguyễn Minh Nghĩa;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202474;Đỗ Minh Ngọc;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202475;Phan Bảo Ngọc;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202476;Đỗ Giang Nguyên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202477;Nguyễn Đình Nguyên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202478;Nguyễn Khôi Nguyên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202479;Nguyễn Chí Nhân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202480;Nguyễn Duy Ninh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202481;Nguyễn Hoàng Phát;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202482;Đoàn Hồng Phong;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202483;Nguyễn Hồng Phong;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202484;Nguyễn Văn Phong;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202485;Nguyễn Văn Phong;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202486;Nguyễn Xuân Phong;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202487;Phạm Thanh Phong;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202488;Trần Văn Phong;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202489;Chu Đức Phúc;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202490;Nguyễn Đỗ Hồng Phương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202491;Nguyễn Hoàng Tuấn Phương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202492;Nguyễn Hữu Phương;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202493;Đỗ Hữu Quân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202494;Ngô Anh Quân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202495;Nguyễn Minh Quân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202496;Phạm Văn Quân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202497;Phạm Vương Quân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202498;Hoàng Nhật Quang;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202499;Trần Khắc Quang;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202500;Nguyễn Công Quyết;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202501;Đặng Chu Sang;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202502;Diệp Quang Sơn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202503;Hoàng Ngọc Sơn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202505;Nguyễn Đức Sơn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202506;Nguyễn Ngọc Sơn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202507;Nguyễn Tiến Sơn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202508;Phạm Thái Sơn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202509;Phan Thanh Sơn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202510;Trần Tùng Sơn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202511;Hoàng Bá Tâm;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202513;Nguyễn Chí Tâm;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202514;Nguyễn Quang Thái;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202515;Bùi Sỹ Thắng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202516;Lê Đình Thắng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202517;Lê Kim Thắng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202518;Trần Hoàng Thắng;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202519;Bùi Kim Thành;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202520;Nguyễn Mậu Thành;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202521;Nguyễn Minh Thành;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202522;Nguyễn Tất Thành;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202523;Nguyễn Trọng Thành;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202524;Nguyễn Việt Thành;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202525;Nguyễn Vũ Thành;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202526;Phùng Minh Thành;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202527;Nguyễn Huy Thế;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202528;Phạm Quốc Thế;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202529;Sầm Văn Thiên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202530;Trần Đỉnh Thiên;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202531;Bùi Đức Thiện;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202532;Nguyễn Đức Thiện;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202533;Nguyễn Đức Thịnh;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202534;Đồng Thị Tình;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202535;Đặng Quang Trung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 02-K65
+20202536;Đồng Bảo Trung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202537;Lại Thành Trung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202538;Nguyễn Đình Trung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202539;Nguyễn Lê Trung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 08-K65
+20202540;Nguyễn Thành Trung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202541;Phạm Văn Trung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 11-K65
+20202542;Quách Kiên Trung;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202543;Bùi Vũ Duy Trường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202544;Đoàn Công Trường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202545;Lang Văn Trường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202546;Nguyễn Quang Trường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202547;Tạ Quang Trường;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 10-K65
+20202548;Nguyễn Trọng Tú;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
+20202549;Trịnh Anh Tú;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 03-K65
+20202550;Trương Anh Tú;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 04-K65
+20202551;Vũ Minh Tú;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 05-K65
+20202552;Vũ Ngọc Tú;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 06-K65
+20202553;Bùi Văn Tuân;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 07-K65
+20202554;Bùi Anh Tuấn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 09-K65
+20202555;Hồ Sỹ Tuấn;04/05/2002;k65;Viện Điện;KT Điều khiển-Tự động hóa 01-K65
